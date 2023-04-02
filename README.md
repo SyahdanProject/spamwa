@@ -35,7 +35,7 @@ apt install python -y
 git clone https://github.com/SyahdanProject/spamwa.git
 cd brutal
 pip install -r install.txt
-python brutal.py
+python spamwa.py
 ```
 
 ## FOR VPS UBUNTU USER
@@ -46,7 +46,7 @@ apt install python3-pip
 git clone https://github.com/SyahdanProject/spamwa.git
 cd brutal
 pip3 install -r install.txt
-python3 brutal.py
+python3 spamwa.py
 ```
 
 ## UPDATE SCRIPT
