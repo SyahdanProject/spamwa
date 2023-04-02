@@ -33,7 +33,7 @@ apt update -y && apt upgrade -y
 apt install git -y
 apt install python -y
 git clone https://github.com/SyahdanProject/spamwa.git
-cd brutal
+cd spamwa
 pip install -r install.txt
 python spamwa.py
 ```
